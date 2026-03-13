@@ -1,0 +1,9 @@
+{
+  "name": "openclaw-relay-installer",
+  "version": "1.0.0",
+  "description": "OpenClaw 中转插件自动安装工具",
+  "main": "src/installer.ts",
+  "keywords": ["openclaw", "relay", "installer"],
+  "author": "牛三",
+  "license": "MIT"
+}
